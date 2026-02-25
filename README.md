@@ -99,6 +99,7 @@
 ## 📊 GitHub Stats
 
 ![Mayuresh's GitHub stats](https://github-readme-stats-flax-xi-49.vercel.app/api?username=mayu2989&show_icons=true&theme=radical&cache_seconds=1800)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayu2989&theme=react-dark)
 
 ---
 
