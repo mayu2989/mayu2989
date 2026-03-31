@@ -1,25 +1,25 @@
-# 👋 Hi, I'm Mayuresh Itankar
+# Hi, I'm Mayuresh Itankar
 
-🚀 Backend Developer | Java | Spring Boot | PostgreSQL
-🎯 Actively looking for Backend / Full Stack Internship (2026)
-
----
-
-## 🧑‍💻 About Me
-
-* 💻 Backend Developer skilled in building RESTful APIs using **Spring Boot**
-* 🗄️ Experienced in working with relational databases like **PostgreSQL**
-* 🔐 Implemented Authentication & Authorization in backend applications
-* 🧠 Currently learning **System Design** & Backend Architecture
-* 🤖 Planning to learn **Artificial Intelligence & Machine Learning**
-* 📦 Passionate about writing clean, scalable & maintainable backend code
-* 🎯 Looking for opportunities as a Backend / Full Stack Intern
+Backend Developer | Java | Spring Boot | PostgreSQL
+Actively looking for Backend / Full Stack Internship (2026)
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### 🚀 Backend
+* Backend Developer skilled in building RESTful APIs using **Spring Boot**
+* Experienced in working with relational databases like **PostgreSQL**
+* Implemented Authentication & Authorization in backend applications
+* Currently learning **System Design** & Backend Architecture
+* Planning to learn **Artificial Intelligence & Machine Learning**
+* Passionate about writing clean, scalable & maintainable backend code
+* Looking for opportunities as a Backend / Full Stack Intern
+
+---
+
+## Tech Stack
+
+### Backend
 
 * Java
 * Spring Boot
@@ -31,19 +31,19 @@
 * Exception Handling
 * Pagination & Sorting
 
-### 🗄️ Database
+### Database
 
 * PostgreSQL
 * MySQL
 
-### 🌐 Basic Frontend
+### Basic Frontend
 
 * React.js
 * HTML
 * CSS
 * JavaScript
 
-### ⚙️ Tools
+### Tools
 
 * Git
 * GitHub
@@ -53,7 +53,7 @@
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### 🔹 Course Registration System (Backend API)
 
@@ -85,7 +85,7 @@
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 * System Design
 * Microservices
@@ -96,13 +96,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayu2989&theme=react-dark)
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/mayuresh-itankar-52b5b5328/
 * Email: itankarmayuresh09@gmail.com
